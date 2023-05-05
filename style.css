@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+div{
+    height: 500px;
+    width: 600px;
+    background-color: rgb(110, 136, 166);
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 7px;
+    
+}
+h1{
+    
+    font-size: 52px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    
+    padding-top: 3px;
+    text-align: center;
+}
+
+input{
+    display: block;
+    margin-top:2rem;
+    margin: 0 auto;
+    margin-bottom:49px ;
+    border-radius: 1px;
+    
+
+}
+
+h3{
+    font-family: 'Lato', sans-serif;
+    
+    margin-left: 200px;
+    margin-bottom: 1rem;
+    
+}
+
+.button{
+    margin-left: 270px;
+    background-color: rgb(24, 7, 37);
+    color: azure;
+    padding: 1rem;
+    border-radius: 1rem;
+    font-family: 'Lato', sans-serif;
+
+}
+
+#resultado{
+    text-align: center;
+    margin-top: 4rem;
+    font-size: 27px;
+    font-family: 'Roboto', sans-serif;
+}
